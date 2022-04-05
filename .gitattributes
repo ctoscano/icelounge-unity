@@ -1,0 +1,7 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+terrain-demo/Assets/NatureManufacture[[:space:]]Assets/** filter=lfs diff=lfs merge=lfs -text
+terrain-demo/Assets/SkySeries[[:space:]]Freebie/** filter=lfs diff=lfs merge=lfs -text
+terrain-demo/Assets/ProceduralToolkit/** filter=lfs diff=lfs merge=lfs -text
+terrain-demo/Assets/BOXOPHOBIC/** filter=lfs diff=lfs merge=lfs -text
+terrain-demo/Assets/Borealis[[:space:]]-[[:space:]]Low[[:space:]]Poly[[:space:]]Tundra/** filter=lfs diff=lfs merge=lfs -text
+terrain-demo/Packages** filter=lfs diff=lfs merge=lfs -text
